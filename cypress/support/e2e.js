@@ -1,17 +1,16 @@
-// ***********************************************************
-// This example support/e2e.js is processed and
-// loaded automatically before your test files.
-//
-// This is a great place to put global configuration and
-// behavior that modifies Cypress.
-//
-// You can change the location of this file or turn off
-// automatically serving support files with the
-// 'supportFile' configuration option.
-//
-// You can read more here:
-// https://on.cypress.io/configuration
-// ***********************************************************
+// =============================================================================
+// e2e.js — Global Cypress Support File
+// =============================================================================
 
-// Import commands.js using ES2015 syntax:
-import './commands'
+import './commands';
+
+// Suppress only the known React #418 error documented as BUG-032.
+// Do not use cy.log() inside Cypress.on().
+Cypress.on('uncaught:exception', (err) => {
+  if (err.message.includes('Minified React error #418')) {
+    console.warn('BUG-032 suppressed: Minified React error #418');
+    return false;
+  }
+
+  return true;
+});

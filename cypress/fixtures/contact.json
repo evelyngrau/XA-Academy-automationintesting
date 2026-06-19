@@ -1,0 +1,30 @@
+{
+"validContact": {
+    "name": "Maria Garcia",
+    "email": "maria.garcia@example.com",
+    "phone": "12345678901",
+    "subject": "Room Availability Inquiry",
+    "message": "Hello, I would like to know more about your available rooms for next month. Please get back to me at your earliest convenience."
+},
+"shortPhone": {
+    "name": "Carlos Lopez",
+    "email": "carlos@example.com",
+    "phone": "1234567890",
+    "subject": "Short Phone Test",
+    "message": "Testing with a 10-digit phone number to verify validation rules."
+},
+"alphaPhone": {
+    "name": "Test User",
+    "email": "test@example.com",
+    "phone": "ABCDEFGHIJK",
+    "subject": "Alpha Phone Test",
+    "message": "Testing with letters in the phone field to verify that the system rejects non-numeric input."
+},
+"emptyFields": {
+    "name": "",
+    "email": "",
+    "phone": "",
+    "subject": "",
+    "message": ""
+}
+}
