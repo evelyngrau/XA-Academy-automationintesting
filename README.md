@@ -23,6 +23,7 @@ https://trello.com/b/a3HXQ0Va/cypress-automationintesting-evelyn-grau
 
 **Google Sheets / Excel** to improve bug reporting and traceability.
 https://drive.google.com/drive/folders/1IYTMyp7xeRAmblhQPkhA9NRaTJvYDOTp?usp=sharing
+
 ---
 
 ## Participant
