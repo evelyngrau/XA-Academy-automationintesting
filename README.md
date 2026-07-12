@@ -1,4 +1,5 @@
-[![Vistas de mi perfil](https://komarev.com)](https://komarev.com/ghpvc/?username=evelyngrau&style=for-the-badge)
+![Vistas de mi perfil](https://komarev.com)
+
 
 ![Automation in Testing Banner](docs/images/automation1.png)
 
