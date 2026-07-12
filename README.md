@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=evelyngrau-automationintesting&label=PROJECT+VIEWS&color=blueviolet&style=flat-square"
+  <img src="https://komarev.com/ghpvc/?username=evelyngrau-automationintesting&label=PROJECT+VIEWS&color=blue&style=flat-square"
        alt="Project views" />
 </p>
 
