@@ -1,5 +1,7 @@
-![Vistas de mi perfil](https://komarev.com)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=evelyngrau-automationintesting&label=PROJECT+VIEWS&color=blueviolet&style=flat-square"
+       alt="Project views" />
+</p>
 
 ![Automation in Testing Banner](docs/images/automation1.png)
 
