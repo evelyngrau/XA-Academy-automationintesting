@@ -1,3 +1,5 @@
+[![Vistas de mi perfil](https://komarev.com)](https://komarev.com/ghpvc/?username=evelyngrau&style=for-the-badge)
+
 ![Automation in Testing Banner](docs/images/automation1.png)
 
 # Testing Project - Automation in Testing
